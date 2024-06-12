@@ -1,0 +1,41 @@
+p {
+  font-style: italic;
+}
+
+/* footer {
+  text-align: center;
+  padding: 3px;
+  background-color: aqua;
+  color: white;
+} */
+
+#btn {
+  font-weight: bold;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  padding: 3px;
+  background-color: aqua;
+  color: white;
+}
+
+#btn:hover {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  padding: 3px;
+  background-color: aqua;
+  color: black;
+}
+label {
+  font-size: 20px;
+  font-weight: 700;
+}
+#score {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(6, 241, 6);
+}
